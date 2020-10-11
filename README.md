@@ -2,9 +2,9 @@
 
 I do competitive programming. Add me on Codeforces!
 
-[![Codeforces Badge](https://run.kaist.ac.kr/badges/codeforces/crackersamdjam.svg)](https://codeforces.com/profile/Plasmatic)
-[![Atcoder Badge](https://run.kaist.ac.kr/badges/atcoder/crackersamdjam.svg)](https://atcoder.jp/users/Plasmatic)
-[![Topcoder Badge](https://run.kaist.ac.kr/badges/topcoder/crackersamdjam.svg)](https://www.topcoder.com/members/Plasmatic)
+[![Codeforces Badge](https://run.kaist.ac.kr/badges/codeforces/plasmatic.svg)](https://codeforces.com/profile/Plasmatic)
+[![Atcoder Badge](https://run.kaist.ac.kr/badges/atcoder/plasmatic.svg)](https://atcoder.jp/users/Plasmatic)
+[![Topcoder Badge](https://run.kaist.ac.kr/badges/topcoder/plasmatic.svg)](https://www.topcoder.com/members/Plasmatic)
 
 <!--
 **plasmatic1/plasmatic1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
