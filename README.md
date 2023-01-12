@@ -2,10 +2,10 @@
 
 I do competitive programming. Add me on Codeforces!
 
-[![DMOJ Badge](http://mosesxu.ca/judge-badge/dmoj/plasmatic)](https://www.dmoj.ca/user/Plasmatic)
-[![Codeforces Badge](http://mosesxu.ca/judge-badge/codeforces/plasmatic)](https://codeforces.com/profile/Plasmatic)
-[![Atcoder Badge](http://mosesxu.ca/judge-badge/atcoder/plasmatic)](https://atcoder.jp/users/Plasmatic)
-[![Topcoder Badge](http://mosesxu.ca/judge-badge/topcoder/plasmatic)](https://www.topcoder.com/members/Plasmatic)
+![DMOJ Badge](http://mosesxu.ca/judge-badge/dmoj/plasmatic)](https://www.dmoj.ca/user/Plasmatic)
+![Codeforces Badge](http://mosesxu.ca/judge-badge/codeforces/plasmatic)](https://codeforces.com/profile/Plasmatic)
+![Atcoder Badge](http://mosesxu.ca/judge-badge/atcoder/plasmatic)](https://atcoder.jp/users/Plasmatic)
+![Topcoder Badge](http://mosesxu.ca/judge-badge/topcoder/plasmatic)](https://www.topcoder.com/members/Plasmatic)
 
 <!--
 **plasmatic1/plasmatic1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
